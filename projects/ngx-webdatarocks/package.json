@@ -1,6 +1,6 @@
 {
   "name": "@webdatarocks/ngx-webdatarocks",
-  "version": "1.4.9-beta.1",
+  "version": "1.4.9-beta.2",
   "description": "Angular 12+ Module for WebDataRocks",
   "license": "MIT",
   "keywords": [
@@ -22,7 +22,7 @@
     "@angular/core": ">=12.0.0"
   },
   "dependencies": {
-    "@webdatarocks/webdatarocks": "latest"
+    "@webdatarocks/webdatarocks": "1.4.9"
   },
   "sideEffects": false
 }
