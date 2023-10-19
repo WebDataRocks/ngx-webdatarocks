@@ -22,7 +22,7 @@
     "@angular/core": ">=12.0.0"
   },
   "dependencies": {
-    "webdatarocks": "1.4.7"
+    "@webdatarocks/webdatarocks": "latest"
   },
   "sideEffects": false
 }
