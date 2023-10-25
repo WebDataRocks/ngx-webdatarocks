@@ -55,10 +55,12 @@ export class WebdatarocksComponent { // implements OnInit
   // private
   private root: HTMLElement;
 
-  constructor(private el: ElementRef) { }
+  constructor(el: ElementRef) { 
+    this.root = <HTMLElement>el.nativeElement;
+  }
 
   ngOnInit() {
-    this.root = this.el.nativeElement as HTMLElement;
+    console.log(WebDataRocks)
     this.webDataRocks = new window.WebDataRocks({
       container: this.root.getElementsByClassName('wbr-ng-wrapper')[0],
       width: this.width,
