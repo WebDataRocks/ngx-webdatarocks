@@ -1,6 +1,6 @@
 # Angular 14+ wrapper for WebDataRocks
 
-This repository contains the source code of the [Ivy-compatible](https://docs.angular.lat/guide/ivy) Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Angular 14+](https://angular.dev/) applications.
+This repository contains the source code of the Ivy-compatible Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Angular 14+](https://angular.dev/) applications.
 
 **Note:** For older Angular versions, use the [ng-webdatarocks](https://github.com/WebDataRocks/ng-webdatarocks) wrapper. It works with versions from 5 to 15.
 
