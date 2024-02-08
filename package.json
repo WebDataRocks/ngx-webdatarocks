@@ -1,6 +1,7 @@
 {
   "name": "ngx-webdatarocks",
   "version": "0.0.0",
+  "description": "Angular 14+ wrapper for the WebDataRocks Pivot Table component",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ngx-webdatarocks-showcase",
