@@ -2,7 +2,7 @@
   "name": "@webdatarocks/ngx-webdatarocks",
   "version": "1.4.20",
   "description": "Angular 12+ Module for WebDataRocks",
-  "license": "MIT",
+  "license": "https://webdatarocks.com/license-agreement/",
   "keywords": [
     "pivot",
     "html5",
