@@ -1,7 +1,7 @@
 {
   "name": "@webdatarocks/ngx-webdatarocks",
   "version": "1.4.20",
-  "description": "Angular 12+ Module for WebDataRocks",
+  "description": "Angular wrapper for the WebDataRocks Pivot Table component",
   "license": "https://webdatarocks.com/license-agreement/",
   "keywords": [
     "pivot",
@@ -13,6 +13,14 @@
     "pivotchart",
     "angular"
   ],
+  "author": {
+    "name": "WebDataRocks",
+    "email": "help@webdatarocks.com"
+  },
+  "bugs": {
+    "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
+  },
+  "homepage": "https://www.webdatarocks.com/"
   "private": false,
   "repository": {
     "type": "git",
