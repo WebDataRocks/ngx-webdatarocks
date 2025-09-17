@@ -2,6 +2,14 @@
   "name": "ngx-webdatarocks",
   "description": "Angular wrapper for the WebDataRocks Pivot Table component",
   "license": "https://webdatarocks.com/license-agreement/",
+  "author": {
+    "name": "WebDataRocks",
+    "email": "help@webdatarocks.com"
+  },
+  "bugs": {
+    "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
+  },
+  "homepage": "https://www.webdatarocks.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ngx-webdatarocks-showcase",
